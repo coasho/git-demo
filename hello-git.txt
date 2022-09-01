@@ -8,3 +8,4 @@ Hello git!new version!
 Hello git!new version!
 Hello git!new version!
 Hello git!new version!
+hello git!fixed!
